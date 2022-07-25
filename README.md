@@ -1,4 +1,4 @@
-# Assignments done as part of the Robotics: Planning & Navigation at IIIT-H during Spring 2021. 
+# Assignments done as part of the Robotics: Planning & Navigation course at IIIT-H during Spring 2021. 
 
 # Assignment 1
 
